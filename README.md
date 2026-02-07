@@ -93,3 +93,6 @@ For discussion, feedback, or collaboration:
 
 - Website: https://highmark.it
 - GitHub: https://github.com/HighMark-31
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.SSPI-whitepaper)
+
