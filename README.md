@@ -9,13 +9,8 @@ Author: **Marco N.**
 Affiliation: **HighMark IT - YecoAI**  
 Category: **Artificial Intelligence**
 
----
 
-## 📄 Whitepaper
-
-The full whitepaper is distributed via **GitHub Releases** at the moment.
-
-[👉 **Download** ](https://github.com/HighMark-31/SSPI-whitepaper/releases/download/release/whitepaper_SSPI_HighMarkMarcoN.pdf) 
+## [👉 **Download** ](https://github.com/HighMark-31/SSPI-whitepaper/releases/download/release/whitepaper_SSPI_HighMarkMarcoN.pdf) 
 
 ---
 
